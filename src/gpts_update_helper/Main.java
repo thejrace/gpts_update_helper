@@ -1,3 +1,4 @@
+/* Gitaş - Obarey Inc 2018 */
 package gpts_update_helper;
 
 import javafx.application.Application;
