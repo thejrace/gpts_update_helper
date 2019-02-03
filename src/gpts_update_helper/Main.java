@@ -14,7 +14,7 @@ import java.nio.file.StandardCopyOption;
 
 public class Main extends Application {
 
-    public static String STATIC_LOCATION = "C://gpts/";
+    public static String STATIC_LOCATION;
 
     @Override
     public void start(Stage primaryStage) throws Exception{
